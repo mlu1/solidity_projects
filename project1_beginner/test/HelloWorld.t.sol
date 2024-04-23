@@ -23,6 +23,8 @@ contract HelloWorldTest is Test {
     function test2() public{
         assertEq(hello.version(),0);
         hello.updateGreeting("Hello World");
+        string memory value = hello.greet();
+        emit log(value);
         assertEq(hello.version(),1);
         assertEq(
                 hello.greet(),
