@@ -79,9 +79,9 @@
 	},
 	"sources": {
 		"contracts/3_Ballot.sol": {
-			"keccak256": "0xd393bfa28c4211633ede74e736c079e99a5b231758114f493bf34eb58c1c27bb",
+			"keccak256": "0x016198d1bc2c783534c1391b84b978b643b59a87d530faefbaadc46e4b8f2242",
 			"urls": [
-				"bzzr://640a25c011b24210c5c1babcc55074dabcb58017464443d9b044cb5a2fc7a026"
+				"bzzr://412b24828369951a1497faa8ab371c743b92c3b035a482a427e9688fc4ab26a2"
 			]
 		}
 	},
